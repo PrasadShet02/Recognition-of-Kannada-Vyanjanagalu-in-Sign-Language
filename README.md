@@ -35,7 +35,7 @@ Several machine learning models were evaluated, with GRU and SVM achieving an ac
 ![output2](https://github.com/user-attachments/assets/867387dd-4774-4349-8fd8-40b53e0592de)
 
 
-https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/dc76b050-b7f7-4d6b-97a6-89028dbf7170 
+https://github.com/user-attachments/assets/672ed3f8-7318-458c-b510-1b4ed9e12ca3
 
 
 ### How to Run
