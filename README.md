@@ -36,10 +36,11 @@ https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/
 ### How to Run
 
 1. Install Python, Mediapipe, OpenCV, tkinter and other required libraries on your system.
-2. Create a folder named `Dataset` and store all the images as shown in the `Dataset` folder in this repository.
-3. `hfe.py` is a feature extractor file. Run this file to extract all the features and store them in the `FEATURES` folder.
-4. Inside the `Models` folder, you will find various models implemented on this dataset. Run the Python file of the respective model.
-5. Run the `real_time.py` file to see the model working and identifying signs in real-time. Make sure to change the model path for your respective model in this file.
+2. Check every file for Path in it and modify it according to your path.
+3. Create a folder named `Dataset` and store all the images as shown in the `Dataset` folder in this repository.
+4. `hfe.py` is a feature extractor file. Run this file to extract all the features and store them in the `FEATURES` folder.
+5. Inside the `Models` folder, you will find various models implemented on this dataset. Run the Python file named with Train.py for the respective model.
+6. Run the `real_time.py` file to see the model working and identifying signs in real-time. Make sure to change the model path for your respective model in this file.
 
 
 ## Conclusion
