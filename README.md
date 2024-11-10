@@ -11,7 +11,8 @@ Sign language serves as a means of communication for speech and hearing-impaired
 The curated dataset consists of 3,400 static images depicting 34 distinct signs of Kannada Vyanjanagalu, each with 100 images. These signs involve single-hand gestures captured at 640 x 480 pixels resolution. The dataset's validation was confirmed by the Association of People with Disabilities(APD) in Bengaluru.
 
 ## System Architecture
-![workFlow](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/3c9943d8-1f8e-416b-9b57-89541419410c)
+![System Arch](https://github.com/user-attachments/assets/40a3be41-465e-493d-bde1-d38ad433ddeb)
+
 
 ### Feature Extractor
 
@@ -19,18 +20,22 @@ The project utilizes Mediapipe Hands, a tool developed by Google, for extracting
 
 ### Models and Results
 
-![confusion_matrix](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/b4e9337e-6f43-4c1c-8048-695a0d45db5f)
-![average_precision](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/67267df5-ab5f-4a25-8d18-0d153535e09c)
+![confusion matrix](https://github.com/user-attachments/assets/e85057e2-8cf5-4478-9098-74de8a857f3f)
+
+![precision](https://github.com/user-attachments/assets/5b412df6-a8bc-4312-870b-afeb8fe4968d)
 
 
 Several machine learning models were evaluated, with GRU and SVM achieving an accuracy rate above 99%.
 
+
 ### Real-time Output
 
-![ಕ](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/ab730ba1-3b67-48e0-88ce-d2a339f40657)
-![ಫ](https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/2f7c9a2d-594b-4a7c-8e44-5e48d5153c9b)
+![output1](https://github.com/user-attachments/assets/af436afd-7090-4d98-b93d-8ae142837a55)
 
-https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/dc76b050-b7f7-4d6b-97a6-89028dbf7170
+![output2](https://github.com/user-attachments/assets/867387dd-4774-4349-8fd8-40b53e0592de)
+
+
+https://github.com/mohan-0709/Kannada-Sign-Language-Recognition/assets/79490917/dc76b050-b7f7-4d6b-97a6-89028dbf7170 
 
 
 ### How to Run
